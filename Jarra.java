@@ -37,6 +37,7 @@ public void llenaDesde(Jarra j){
 
 public void metodoComunitario(){
 // Comentario incluido para pruebas
+System.out.println("Gonzalo Macías");
 System.out.println("Aqui escribimos todos");
 }
 }
