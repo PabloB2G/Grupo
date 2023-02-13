@@ -38,5 +38,6 @@ public void llenaDesde(Jarra j){
 public void metodoComunitario(){
 // Comentario incluido para pruebas
 System.out.println("Aqui escribimos todos");
+System.out.println("Pablo Bermúdez Gámez");
 }
 }
